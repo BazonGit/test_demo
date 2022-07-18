@@ -1,1 +1,2 @@
 This is test doco for git
+Adding a line from VS
